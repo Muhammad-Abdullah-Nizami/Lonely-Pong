@@ -9,3 +9,5 @@ Press the Up arrow key to move one Paddle up while simultaneously moving the oth
 vice-versa for the Down arrow key.
 
 First game in Pygame :)
+
+Run **Pip install pygame** in cmd/terminal, let Pygame install and then run the .py file. 
